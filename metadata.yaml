@@ -1,0 +1,30 @@
+_repo: Sticks-and-Stones-A-Study-of-American-Architecture-and-Civilization_64629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mumford, Lewis
+    birthdate: 1895
+    deathdate: 1990
+    gutenberg_agent_id: '52994'
+    url: http://www.gutenberg.org/2009/agents/52994
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Mumford
+description: ''
+gutenberg_issued: '2021-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64629'
+  lccn: '24024043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Architecture -- United States'
+- GITenberg
+tableOfContents: The medieval tradition -- The heritage of the Renaissance -- The
+  classical myth -- The diaspora of the pioneer -- The defeat of romanticism -- The
+  imperial façade -- The age of the machine -- Architecture and civilization -- Envoi
+  -- Notes on books.
+title: 'Sticks and Stones: A Study of American Architecture and Civilization'
+url: http://www.gutenberg.org/ebooks/64629
