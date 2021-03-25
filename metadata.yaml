@@ -1,5 +1,8 @@
 _repo: Sticks-and-Stones-A-Study-of-American-Architecture-and-Civilization_64629
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64629-h/images/cover.jpg
 creator:
   author:
     agent_name: Mumford, Lewis
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52994
     wikipedia: https://en.wikipedia.org/wiki/Lewis_Mumford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64629#Sticks-and-Stones-A-Study-of-American-Architecture-and-Civilization
 gutenberg_issued: '2021-02-25'
 gutenberg_type: Text
 identifiers:
